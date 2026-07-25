@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/MessagingWebApp.API/MessagingWebApp.API.csproj" />
+    <Project Path="src/backend/MessagingWebApp.Application/MessagingWebApp.Application.csproj" />
+    <Project Path="src/backend/MessagingWebApp.Domain/MessagingWebApp.Domain.csproj" />
+    <Project Path="src/backend/MessagingWebApp.Infrastructure/MessagingWebApp.Infrastructure.csproj" />
+  </Folder>
+</Solution>
